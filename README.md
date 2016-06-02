@@ -1,2 +1,1 @@
-# Hello_world
-My tutorial
+I want to learn how to work with GitHub
